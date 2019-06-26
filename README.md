@@ -5,6 +5,20 @@ This example demonstrates how to receive and process webhooks from [sipgate.io](
 
 For further information regarding the push functionalities of sipgate.io please visit https://developer.sipgate.io/push-api/api-reference/
 
+- [Prerequisites](#Prerequisites)
+- [Enabling sipgate.io for your sipgate account](#Enabling-sipgateio-for-your-sipgate-account)
+- [How sipgate.io webhooks work](#How-sipgateio-webhooks-work)
+- [Configure webhooks for sipgate.io](#Configure-webhooks-for-sipgateio)
+- [Making your computer accessible from the internet](#Making-your-computer-accessible-from-the-internet)
+- [Install dependencies:](#Install-dependencies)
+- [Execution](#Execution)
+- [How It Works](#How-It-Works)
+- [Common Issues](#Common-Issues)
+- [Related](#Related)
+- [Contact Us](#Contact-Us)
+- [License](#License)
+- [External Libraries](#External-Libraries)
+
 
 ## Prerequisites
 - Node.js >= 10.15.3
