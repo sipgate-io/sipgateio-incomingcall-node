@@ -1,0 +1,19 @@
+{
+  "name": "sipgateio-incomingcall-node",
+  "version": "1.0.0",
+  "description": "A demonstration on how to receive webhooks for incoming calls",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "sipgate.io",
+  "repository": "https://github.com/sipgate-io/sipgateio-incomingcall-node",
+  "engines": {
+    "node": "10.15.3"
+  },
+  "license": "Unlicense",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
