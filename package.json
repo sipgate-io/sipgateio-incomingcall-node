@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "sipgate.io",
+  "author": "sipgate.io <io-team@sipgate.de>",
   "repository": "https://github.com/sipgate-io/sipgateio-incomingcall-node",
   "engines": {
     "node": "10.15.3"
