@@ -1,6 +1,8 @@
 const express = require('express');
 
-const port = 8080;
+require("dotenv").config();
+
+const port = process.env.WEBHOOK_PORT;
 const app = express();
 
 app.use(express.urlencoded({ extended: true }));
