@@ -9,9 +9,6 @@
   "keywords": [],
   "author": "sipgate.io <io-team@sipgate.de>",
   "repository": "https://github.com/sipgate-io/sipgateio-incomingcall-node",
-  "engines": {
-    "node": "10.15.3"
-  },
   "license": "Unlicense",
   "dependencies": {
     "dotenv": "^16.0.2",
