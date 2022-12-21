@@ -31,4 +31,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/sipgateio-incomingcall-node:latest
+          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/${{ github.repository | split("/") | last }}:latest
