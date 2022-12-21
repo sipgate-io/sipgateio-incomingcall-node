@@ -5,6 +5,7 @@ on:
     branches:
       - "main"
       - "master"
+      - "feat/gc-cli-docker"
 
 
 jobs:
